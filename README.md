@@ -10,4 +10,4 @@
 
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/22.02.2024.cpp> 22.02.2024</a> - дз по C++ (3)
 
-< a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/26.20.2024.cpp> 26.02.2024</a> - дз по C++ (4)
+<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/26.20.2024.cpp> 26.02.2024</a> - дз по C++ (4)
