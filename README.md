@@ -13,3 +13,5 @@
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/26.20.2024.cpp> 26.02.2024</a> - дз по C++ (4)
 
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/4.03.2024.cpp> 04.02.2024</a> - дз по C++ (5)
+
+<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/06.03.2024.cpp> 06.03.2024</a> - дз по C++ (6)
