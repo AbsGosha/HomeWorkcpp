@@ -27,3 +27,6 @@
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/16.05.2024.cpp> 16.05.2024</a> - дз по C++ (11) - поразрядная сортировка 
 
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/15.05.2024.cpp> 15.05.2024</a> - дз по C++ (12) - ходы коня 
+
+<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/30.05.2024.cpp> 30.05.2024</a> - дз по C++ (13) - добавление столбца, удаление строки, удаление столбца 
+![image](https://github.com/AbsGosha/HomeWorkcpp/assets/159914520/3da2a132-0191-4348-b01f-e15c9ed52889)
