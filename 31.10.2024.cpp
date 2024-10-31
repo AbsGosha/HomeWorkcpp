@@ -65,24 +65,24 @@ int main()
 	ofstream out;
 	out.open("ex6.txt");
 	string line;
-	int pos = 3;
+	int position = 3;
 	if (in.is_open()) {
 		while (getline(in, line)) {
 			for (int i = 0; line[i] != '\0'; i++) {
 				if (line[i] >= 97 && line[i] <= 122) {
-					if (line[i] > (122 - pos)) {
-						line[i] = line[i] + pos - 26;
+					if (line[i] > (122 - position)) {
+						line[i] = line[i] + position - 26;
 					}
 					else {
-						line[i] = line[i] + pos;
+						line[i] = line[i] + position;
 					}
 				}
 				if (line[i] >= 65 && line[i] <= 90) {
-					if (line[i] > (90 - pos)) {
-						line[i] = line[i] + pos - 26;
+					if (line[i] > (90 - position)) {
+						line[i] = line[i] + position - 26;
 					}
 					else {
-						line[i] = line[i] + pos;
+						line[i] = line[i] + position;
 					}
 				}
 			}
