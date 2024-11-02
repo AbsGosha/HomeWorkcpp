@@ -32,3 +32,5 @@
 ![image](https://github.com/AbsGosha/HomeWorkcpp/assets/159914520/3da2a132-0191-4348-b01f-e15c9ed52889)
 
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/20.04.2024.cpp>20.04.2024</a> - долг (дз за 20.04.2024)
+
+<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/2.06.2024.cpp>2.06.2024>/a> - долг (дз за 2.06.2024)
