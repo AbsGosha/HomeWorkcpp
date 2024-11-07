@@ -35,4 +35,4 @@
 
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/2.06.2024.cpp>2.06.2024</a> - долг (дз за 2.06.2024)
 
-<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/rock-paper-scissors.cpp></a> - долг (дз за 7.06.2024)
+<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/rock-paper-scissors.cpp> rock-paper-scissors </a> - долг (дз за 7.06.2024)
