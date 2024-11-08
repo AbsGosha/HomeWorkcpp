@@ -36,7 +36,7 @@ int main()
                 cout << "rock. Draw";
                 break;
             case 2:
-                cout << "scissors. You win...";
+                cout << "scissors. You win!";
                 count++;
                 break;
             case 3:
