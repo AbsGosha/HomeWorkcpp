@@ -39,5 +39,5 @@
 
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/6.10.2024.cpp> 6.10.2024</a> - долг (дз за 6.10.2024)
 
-<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/31.10.24.cpp> 31.10.24</a> - долг (дз за 31.10.2024, где нужно было реализовать класс Fraction) 
+<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/31.10.24.cpp> 31.10.24</a> - долг (дз за 31.10.2024, где нужно было реализовать класс Fraction) <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Fraction.h> Fraction.h</a>
 
