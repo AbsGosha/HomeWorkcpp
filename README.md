@@ -41,3 +41,5 @@
 
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/31.10.24.cpp> 31.10.24</a> - долг (дз за 31.10.2024, где нужно было реализовать класс Fraction) <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Fraction.h> Fraction.h</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Fraction.cpp> Fraction.cpp </a>
 
+<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/5.11.2024.cpp> 5.11.2024</a> - долг (дз за 5.11.2024, нужно было реализовать классы Человек и Lift) 
+
