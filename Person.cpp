@@ -2,31 +2,16 @@
 
 Person::Person()
 {
-	this->counter++;
+	this->surname = "Petrov";
+	this->name = "Petya";
+	this->fathername = "Petrovich";
 }
 
-Person::Person(int idNumber, string name, string surname, string fathername, Date date)
+Person::Person(string name, string surname, string fathername)
 {
-	this->idNumber = idNumber;
 	this->name = name;
 	this->surname = surname;
 	this->fathername = fathername;
-	this->date = date;
-	++this->counter;
-}
-Person::Person(Person& person)
-{
-	this->idNumber = person.idNumber;
-	this->name = person.name;
-	this->surname = person.surname;
-	this->fathername = person.fathername;
-	this->date = person.date;
-	this->counter++;
-}
-
-int Person::getId()
-{
-	return this->idNumber;
 }
 
 string Person::getName()
@@ -34,7 +19,7 @@ string Person::getName()
 	return this->name;
 }
 
-string Person::getSurname()
+string Person::getSurName()
 {
 	return this->surname;
 }
@@ -44,50 +29,27 @@ string Person::getFatherName()
 	return this->fathername;
 }
 
-Date Person::getDate()
-{
-	return this->date;
-}
-
-void Person::setIdNumber(int)
-{
-	this->idNumber = idNumber;
-}
-
-void Person::setName(string)
+void Person::setName()
 {
 	this->name = name;
 }
 
-void Person::setSurname(string)
+void Person::setSurName()
 {
 	this->surname = surname;
 }
 
-void Person::setFatherName(string)
+void Person::setFatherName()
 {
 	this->fathername = fathername;
 }
 
-void Person::setDate(Date)
+void Person::printInfoPerson()
 {
-	this->date = date;
-}
-
-void Person::countPerson()
-{
-	cout << "People: " << this->counter << endl;
-}
-
-void Person::printPerson()
-{
-	cout << "Identification number: " << idNumber << endl;
-	cout << "FIO: " << this->surname << " " << this->name << " " << fathername << endl;
-	cout << "Date of bithday: " << this->date.getDay() << "." << this->date.getMonth() << "." << this->date.getYear();
+	cout << "FIO: " << this->surname << " " << this->name << " " << this->fathername;
 }
 
 Person::~Person()
 {
-	this->counter--;
 }
 
