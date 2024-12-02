@@ -41,7 +41,7 @@
 
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/31.10.24.cpp> 31.10.24</a> - долг (дз за 31.10.2024, где нужно было реализовать класс Fraction) <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Fraction.h> Fraction.h</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Fraction.cpp> Fraction.cpp </a>
 
-<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/5.11.2024.cpp> 5.11.2024</a> - долг (дз за 5.11.2024, нужно было реализовать классы Человек и Lift) <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Person.h> Person.h</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Person.cpp> Person.cpp</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Date.h> Date.h</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Date.cpp> Date.cpp</a>
+<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/5.11.2024.cpp> 5.11.2024</a> - долг (дз за 5.11.2024, нужно было реализовать классы Человек и Lift) <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Person.h> Person1.h</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Person.cpp> Person1.cpp</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Date.h> Date.h</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Date.cpp> Date.cpp</a>
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Elevator.h> Elevator.h</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Elevator.cpp> Elevator.cpp</a>
 
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/29.11.2024.cpp> 29.11.2024</a> - долг (дз за 29.11.2024, нужно было реализовать классы Человек, Квартира и Дом) 
