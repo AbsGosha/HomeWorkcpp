@@ -45,4 +45,4 @@
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Elevator.h> Elevator.h</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Elevator.cpp> Elevator.cpp</a>
 
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/29.11.2024.cpp> 29.11.2024</a> - долг (дз за 29.11.2024, нужно было реализовать классы Человек, Квартира и Дом) <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Person.h> Person.h</a>
-<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Person.cpp> Person.cpp</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Flat.h> Flat.h </a>  <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Flat.cpp> Flat.cpp </a>
+<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Person.cpp> Person.cpp</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Flat.h> Flat.h</a>  <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Flat.cpp> Flat.cpp</a>
