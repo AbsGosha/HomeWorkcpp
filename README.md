@@ -54,5 +54,5 @@
 
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/8.12.2024.cpp> 8.12.2024</a> - долг(дз за 8.12.2024, где нужно было реализовать Бинарное дерево) <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/BinaryTree.h> BinaryTree.h</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/BinaryTree.cpp> BinaryTree.cpp</a>
 
-<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/13.12.2024.cpp> 13.12.2024</a> - долг(дз за 13.12.2024) 
+<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/13.12.2024.cpp> 13.12.2024</a> - долг(дз за 13.12.2024) <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/List.h> List.h</a>
 
