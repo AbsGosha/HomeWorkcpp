@@ -59,7 +59,7 @@ public:
 		if (this->empty()) {
 			return;
 		}
-		Node<T>* p = first;
+		Node<T>* p = this->first;
 		while (p->next->next != nullptr) {
 			p = p->next;
 		}
