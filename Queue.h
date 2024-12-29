@@ -8,9 +8,7 @@ class Queue
 private:
 	List<T> arr;
 public:
-	Queue(T* arr, int size) : arr(arr, size) {
-
-	}
+	Queue(T* arr, int size) : arr(arr, size) {}
 	Queue(Queue<T>& queue) {
 		this->arr = queue.arr;
 	}
