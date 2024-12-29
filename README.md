@@ -56,5 +56,5 @@
 
 <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/13.12.2024.cpp> 13.12.2024</a> - долг(дз за 13.12.2024) <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/List.h> List.h</a>
 
-<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/15.12.2024.cpp> 15.12.2024</a> - долг(дз за 15.12.2024) <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Queue.h> Queue.h</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/MyArr.h> MyArr.h</a>
+<a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/15.12.2024.cpp> 15.12.2024</a> - долг(дз за 15.12.2024) <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/Queue.h> Queue.h</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/MyArr.h> MyArr.h</a> <a href=https://github.com/AbsGosha/HomeWorkcpp/blob/main/MyList.h> MyList.h</a>
 
